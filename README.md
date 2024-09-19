@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Parth
-- 👀 I’m interested in Web3 development
-- 🌱 I’m currently learning the Front End development
+- 👋 Hi, I’m Parth, a Computer science engineering student.
+Interests include Competitive programming & Web3/Blockchain developent.
+Open to new opportunities and challenges.
