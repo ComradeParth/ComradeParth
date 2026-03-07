@@ -16,6 +16,8 @@
 
 ###
 
+<br clear="both">
+
 <img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTByMG13bWFrNGYwcHRvd25pc2V1cXgxODFsMzluZWpyZ2JiNmcwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
 
 ###
@@ -32,7 +34,7 @@
 
 ###
 
-<h3 align="center">Hi there! I'm Parth Negi.<br>I am a Computer Science Engineering student and a full-stack developer. I love building dynamic, data-driven web applications and am actively working to transition my skills into the DeFi, Web3, and Blockchain industries. Right now, I am actively looking for remote full-stack development internships!<br><br>I am currently learning full-stack development patterns utilizing TypeScript, Next.js, and PostgreSQL. At the same time, I am diving into the core fundamentals of Blockchain technology, smart contracts, Web3 architecture, and how decentralized finance protocols operate so I can start building dApps.<br><br>I am looking to work on remote full-stack development internships where I can contribute to impactful products. I am also eager to collaborate on open-source projects in the Web3 and DeFi ecosystems to get hands-on experience, also interested in innovative SaaS platforms.</h3>
+<h4 align="center">Hi there! I'm Parth Negi.<br>I am a Computer Science Engineering student and a full-stack developer. I love building dynamic, data-driven web applications and am actively working to transition my skills into the DeFi, Web3, and Blockchain industries. Right now, I am actively looking for remote full-stack development internships!<br><br>I am currently learning full-stack development patterns utilizing TypeScript, Next.js, and PostgreSQL. At the same time, I am diving into the core fundamentals of Blockchain technology, smart contracts, Web3 architecture, and how decentralized finance protocols operate so I can start building dApps.<br><br>I am looking to work on remote full-stack development internships where I can contribute to impactful products. I am also eager to collaborate on open-source projects in the Web3 and DeFi ecosystems to get hands-on experience, also interested in innovative SaaS platforms.</h4>
 
 ###
 
@@ -75,7 +77,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ComradeParth&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=ComradeParth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
