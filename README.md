@@ -1,3 +1,11 @@
+<br clear="both">
+
+<div align="center">
+  <img height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTByMG13bWFrNGYwcHRvd25pc2V1cXgxODFsMzluZWpyZ2JiNmcwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+</div>
+
+###
+
 <p align="center">Welcome</p>
 
 ###
@@ -13,24 +21,6 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="170" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTByMG13bWFrNGYwcHRvd25pc2V1cXgxODFsMzluZWpyZ2JiNmcwZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="250" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWo3M2pqOGVxa2c3dmd6Mjh0a2Y1bGFtbHkxYnNpbzYwenowdDNiZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/erePhJFWkfYMwTpNT8/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZvcGhxMGNzN3EyNHV4dDR4bGxsbnNzY3Z0bnlzYXJ0OGJ4Mml0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2V3bklNmp9K/giphy.gif"  />
 
 ###
 
@@ -78,6 +68,14 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ComradeParth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWZvcGhxMGNzN3EyNHV4dDR4bGxsbnNzY3Z0bnlzYXJ0OGJ4Mml0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C2V3bklNmp9K/giphy.gif"  />
 </div>
 
 ###
